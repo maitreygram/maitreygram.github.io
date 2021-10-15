@@ -1,18 +1,18 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+Maitrey Gramopadhye:
+  name        : "Maitrey Gramopadhye"
+  uri         : "https://maitreygram.github.io/"
+  email       : "maitreygramo12@gmail.com"
+  bio         : "Some crass jokes and a one-liner."
+  avatar      : "images/profile.jpg"
+  twitter     : "https://twitter.com/maitreygramo12"
+  google_plus : "https://myaccount.google.com/profile"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+# Name2 Name2:
+#   name        : "Name2 Name2"
+#   email       : "name2@name2.com"
+#   bio         : "I ordered what?"
+#   avatar      : "bio-photo.jpg"
+#   twitter     : "name2"
+#   google_plus : "Name"
