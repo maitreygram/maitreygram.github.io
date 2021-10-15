@@ -14,6 +14,6 @@ I have worked on Graph Machine Learning as a researcher at [AI Garage, Mastercar
 
 I completed my Bachelors in Technology in [Computer Science](https://www.cse.iitb.ac.in) from the [Indian Institute of Technology, Bombay](https://www.iitb.ac.in) where I worked with Prof. [Ajit Rajwade](https://www.cse.iitb.ac.in/~ajitvr) on my [Undergraduate thesis](https://github.com/maitreygram/maitreygram.github.io/blob/master/thesis/BTP_Report_2.pdf) in the field of 3D Reconstruction in Cryogenic Electron Microscopy. I also served as the Software team lead for [The IIT Bombay Mars Rover Team](https://iitbmartian.github.io), where I worked on building rovers capable of traversing on Mars like terrain.
 
-# Publications
+# Recent Publications
 [CuRL: Coupled Representation Learning of Cards and Merchants to Detect Transaction Frauds](https://link.springer.com/chapter/10.1007/978-3-030-86383-8_2) \
 **Maitrey Gramopadhye**, Shreyansh Singh, Kushagra Agarwal, Nitish Srivasatava, Alok Singh, Siddhartha Asthana and Ankur Arora
