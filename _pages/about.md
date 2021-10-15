@@ -9,4 +9,6 @@ redirect_from:
 ---
 
 # About Me
-I am Maitrey
+* I am currently a graduate student in the [Computer Science Department](https://cs.unc.edu) at the [University of North Carolina at Chapel Hill](https://www.unc.edu), working with Prof. [Gedas Bertasius](https://www.gedasbertasius.com).
+* My research interest lies at the intersection of Computer Vision and Robotics.
+ 
