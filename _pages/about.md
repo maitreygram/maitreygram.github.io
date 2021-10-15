@@ -13,4 +13,4 @@ I am currently a graduate student in the [Computer Science Department](https://c
 
 I have worked on Graph Machine Learning as a researcher at [AI Garage, Mastercard](https://www.mastercard.co.in/en-in.html) and I'm interested in finding ways to port my experience across fields to my current and future projects. I also interned at [Samsung Research Institute, Bangalore](https://research.samsung.com/sri-b) where I worked in the Computer Vision team of the Advanced Technology Lab.
 
-I completed my Bachelors in Technology in [Computer Science](https://www.cse.iitb.ac.in) from the [Indian Institute of Technology, Bombay](https://www.iitb.ac.in) where I worked on my undergraduate thesis 
+I completed my Bachelors in Technology in [Computer Science](https://www.cse.iitb.ac.in) from the [Indian Institute of Technology, Bombay](https://www.iitb.ac.in) where I worked on my [undergraduate thesis](../thesis/BTP_Report_2.pdf) 
