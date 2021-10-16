@@ -1,7 +1,7 @@
 ---
 <!-- title: 'Project number 1' -->
 date: 2021-10-16
-<!-- permalink: /personal/about -->
+permalink: /personal/about
 <!-- tags:
   - cool posts
   - category1
