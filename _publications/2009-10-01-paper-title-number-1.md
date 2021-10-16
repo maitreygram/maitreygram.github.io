@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "CuRL: Coupled Representation Learning of Cards and Merchants to Detect Transaction Frauds"
 collection: publications
 permalink: /publication/CuRL
 excerpt: 'In this paper, we propose CuRL and tCuRL, coupled representation learning methods that can effectively capture the higher-order interactions in a bipartite graph of payment entities to detect transaction fraud.'
