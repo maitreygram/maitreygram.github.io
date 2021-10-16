@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant for COMP475 (2D Computer Graphics)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/COMP475/f21
+venue: "University of North Carolina at Chapel Hill, Computer Science"
+date: 2021-08-18
+location: "Chapel Hill, NC"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+As a Teaching Assistant for 2D Computer Graphics I worked on resolving any doubts students had regarding the assignments and the course content. I conducted meetings with students to help debug C++ code for the assignments and to go over any subject matter that needed clarifying.
