@@ -1,5 +1,5 @@
 ---
-<!-- title: 'Project number 1' -->
+title: 'Project number 1'
 date: 2021-10-16
 permalink: /personal/about
 tags:
