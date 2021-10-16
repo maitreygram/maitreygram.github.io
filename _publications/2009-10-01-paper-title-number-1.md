@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/CuRL
 excerpt: 'In this paper, we propose CuRL and tCuRL, coupled representation learning methods that can effectively capture the higher-order interactions in a bipartite graph of payment entities to detect transaction fraud.'
 date: 2021-09-07
-venue: '30th International Conference on Artificial Neural Networks (ICANN), 2021'
+venue: '30th International Conference on Artificial Neural Networks (ICANN)'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-86383-8_2'
 ---
 
