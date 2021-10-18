@@ -1,3 +1,7 @@
+---
+title: ''
+<!-- date: 2021-10-16 -->
+permalink: /personal/hike
 <img src='/images/20180707_121543.jpg'>
 <br/><img src='/images/20181209_101445.jpg'>
 <br/><img src='/images/20181209_112011.jpg'>
