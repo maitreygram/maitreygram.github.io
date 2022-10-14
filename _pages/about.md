@@ -19,4 +19,4 @@ I completed my Bachelors in Technology in <a href="https://www.cse.iitb.ac.in" s
 <img src="https://user-images.githubusercontent.com/24911348/195767144-15cb4b40-5808-4739-9d87-657bdf465190.png" alt="CuRL system diagram" width="200" align="left"/>
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-86383-8_2" style="text-decoration:none">CuRL: Coupled Representation Learning of Cards and Merchants to Detect Transaction Frauds</a> \
 **Maitrey Gramopadhye**, Shreyansh Singh, Kushagra Agarwal, Nitish Srivasatava, Alok Singh, Siddhartha Asthana and Ankur Arora \
-*International Conference on Artificial Neural Networks (ICANN)*, 2021
+*ICANN, 2021*
