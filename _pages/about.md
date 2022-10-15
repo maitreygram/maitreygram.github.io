@@ -83,13 +83,16 @@ I completed my Bachelors in Technology in <a href="https://www.cse.iitb.ac.in">C
   </div>
   <div class="column" style="width: 75%;">
     <div class="card">
-      <a href="https://link.springer.com/chapter/10.1007/978-3-030-86383-8_2">CuRL: Coupled Representation Learning of Cards and Merchants to Detect Transaction Frauds</a>
+      <a href="https://maitreygram.github.io/publication/CuRL">CuRL: Coupled Representation Learning of Cards and Merchants to Detect Transaction Frauds</a>
     </div>
     <div class="card">
       <b>Maitrey Gramopadhye</b>, Shreyansh Singh, Kushagra Agarwal, Nitish Srivasatava, Alok Singh, Siddhartha Asthana and Ankur Arora
     </div>
     <div class="card">
       <i>ICANN, 2021</i>
+    </div>
+    <div class="card">
+      <i><a href="https://link.springer.com/chapter/10.1007/978-3-030-86383-8_2">paper link</a></i>
     </div>
   </div>
 </div>
