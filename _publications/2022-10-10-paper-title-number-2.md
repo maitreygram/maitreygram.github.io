@@ -26,7 +26,7 @@ Large Language Models (LLMs) trained using massive text datasets have recently s
 
 [arXiv](https://arxiv.org/abs/2210.04964)
 
-Cite this paper as: \
+Cite this paper as:
 <pre>
   <code>
     @article{Gramopadhye2022SceneAP,
