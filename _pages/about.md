@@ -45,6 +45,7 @@ redirect_from:
   
 a {
   text-decoration:none;
+  color: hotpink;
 }
 </style>
 
