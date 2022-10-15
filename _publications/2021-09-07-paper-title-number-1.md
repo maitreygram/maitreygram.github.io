@@ -33,7 +33,7 @@ In this paper, we propose CuRL and tCuRL, coupled representation learning method
 
 [paper link](https://link.springer.com/chapter/10.1007/978-3-030-86383-8_2)
 
-Cite this paper as: \
+Cite this paper as:
 <pre>
   <code>
     @article{Gramopadhye2021CuRL,
