@@ -74,6 +74,7 @@ I completed my Bachelors in Technology in <a href="https://www.cse.iitb.ac.in">C
     </div>
   </div>
 </div>
+<br><br>
 <div class="row">
   <div class="column">
     <div class="card">
