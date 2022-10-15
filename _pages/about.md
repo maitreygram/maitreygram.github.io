@@ -64,13 +64,16 @@ I completed my Bachelors in Technology in <a href="https://www.cse.iitb.ac.in">C
   </div>
   <div class="column" style="width: 75%;">
     <div class="card">
-      <a href="https://arxiv.org/abs/2210.04964">Generating Executable Action Plans with Environmentally-Aware Language Models</a>
+      <a href="https://maitreygram.github.io/publication/Scene-aware-language-planner">Generating Executable Action Plans with Environmentally-Aware Language Models</a>
     </div>
     <div class="card">
       <b>Maitrey Gramopadhye</b>, Daniel Szafir
     </div>
     <div class="card">
-      <i>arXiv, 2022</i>
+      <i>arXiv preprint, 2022</i>
+    </div>
+    <div class="card">
+      <i><a href="https://arxiv.org/abs/2210.04964">arXiv</a></i>
     </div>
   </div>
 </div>
