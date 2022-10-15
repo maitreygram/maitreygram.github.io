@@ -73,6 +73,8 @@ I completed my Bachelors in Technology in <a href="https://www.cse.iitb.ac.in">C
       *arXiv, 2022*
     </div>
   </div>
+</div>
+<div class="row">
   <div class="column">
     <div class="card">
       <img src="https://user-images.githubusercontent.com/24911348/195767144-15cb4b40-5808-4739-9d87-657bdf465190.png" alt="CuRL system diagram"/>
