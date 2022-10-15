@@ -67,10 +67,10 @@ I completed my Bachelors in Technology in <a href="https://www.cse.iitb.ac.in">C
       <a href="https://arxiv.org/abs/2210.04964">Generating Executable Action Plans with Environmentally-Aware Language Models</a>
     </div>
     <div class="card">
-      **Maitrey Gramopadhye**, Daniel Szafir
+      <b>Maitrey Gramopadhye</b>, Daniel Szafir
     </div>
     <div class="card">
-      *arXiv, 2022*
+      <i>arXiv, 2022</i>
     </div>
   </div>
 </div>
@@ -85,10 +85,10 @@ I completed my Bachelors in Technology in <a href="https://www.cse.iitb.ac.in">C
       <a href="https://link.springer.com/chapter/10.1007/978-3-030-86383-8_2">CuRL: Coupled Representation Learning of Cards and Merchants to Detect Transaction Frauds</a>
     </div>
     <div class="card">
-      **Maitrey Gramopadhye**, Shreyansh Singh, Kushagra Agarwal, Nitish Srivasatava, Alok Singh, Siddhartha Asthana and Ankur Arora
+      <b>Maitrey Gramopadhye</b>, Shreyansh Singh, Kushagra Agarwal, Nitish Srivasatava, Alok Singh, Siddhartha Asthana and Ankur Arora
     </div>
     <div class="card">
-      *ICANN, 2021*
+      <i>ICANN, 2021</i>
     </div>
   </div>
 </div>
