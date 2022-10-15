@@ -43,9 +43,8 @@ redirect_from:
   }
 }
   
-a {
-  text-decoration:none;
-  color: hotpink;
+a:link {
+  text-decoration: none;
 }
 </style>
 
