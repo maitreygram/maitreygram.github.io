@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
+
 I am currently a graduate student in the <a href="https://cs.unc.edu" style="text-decoration:none">Computer Science Department</a> at the <a href="https://www.unc.edu" style="text-decoration:none">University of North Carolina at Chapel Hill</a>, working with Prof. <a href="https://www.danszafir.com" style="text-decoration:none">Daniel Szafir</a> and Prof. <a href="https://www.gedasbertasius.com" style="text-decoration:none">Gedas Bertasius</a>. My research interests include robotic perception and common sense reasoning in robotics. Recently, I'm working on conditioning large language models to generate situationally aware action plans. In the past I have worked on studying the zero-shot performance of vision transformers for video object segmentation and pose propagation.
 
 I have worked on Graph Machine Learning as a researcher at <a href="https://www.mastercard.co.in/en-in.html" style="text-decoration:none">AI Garage, Mastercard</a> and I'm interested in finding ways to port my experience across fields to my current and future projects. I also interned at <a href="https://research.samsung.com/sri-b" style="text-decoration:none">Samsung Research Institute, Bangalore</a> where I worked in the Computer Vision team of the Advanced Technology Lab.
@@ -15,6 +21,21 @@ I have worked on Graph Machine Learning as a researcher at <a href="https://www.
 I completed my Bachelors in Technology in <a href="https://www.cse.iitb.ac.in" style="text-decoration:none">Computer Science</a> from the <a href="https://www.iitb.ac.in" style="text-decoration:none">Indian Institute of Technology, Bombay</a> where I worked with Prof. <a href="https://www.cse.iitb.ac.in/~ajitvr" style="text-decoration:none">Ajit Rajwade</a> on my <a href="https://github.com/maitreygram/maitreygram.github.io/blob/master/thesis/BTP_Report_2.pdf" style="text-decoration:none">Undergraduate thesis</a> in the field of 3D Reconstruction in Cryogenic Electron Microscopy. I also was the Software team lead for <a href="https://iitbmartian.github.io" style="text-decoration:none">The IIT Bombay Mars Rover Team</a>, where I worked on building rovers capable of traversing on Mars like terrain.
 
 # Recent Publications
+
+<!-- <div margin="0 -5px">
+  <div class="column">
+    <div class="card">..</div>
+  </div>
+  <div class="column">
+    <div class="card">..</div>
+  </div>
+  <div class="column">
+    <div class="card">..</div>
+  </div>
+  <div class="column">
+    <div class="card">..</div>
+  </div>
+</div> -->
 
 <img width="200" alt="system diagram" src="https://user-images.githubusercontent.com/24911348/195924327-b4230fe0-e6ec-4cfe-acf5-3ebf3db022a9.png" align="left"/>
 <a href="https://arxiv.org/abs/2210.04964" style="text-decoration:none">Generating Executable Action Plans with Environmentally-Aware Language Models</a> \
