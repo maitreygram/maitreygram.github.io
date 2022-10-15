@@ -8,6 +8,21 @@ venue: '30th International Conference on Artificial Neural Networks (ICANN)'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-86383-8_2'
 ---
 
+<style>
+
+/* Style the counter cards */
+.card {
+<!--   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */ -->
+  padding: 16px;
+<!--   text-align: center; -->
+<!--   background-color: #f1f1f1; -->
+}
+
+a:link {
+  text-decoration: none;
+}
+</style>
+
 <div class="card">
   <img src="https://user-images.githubusercontent.com/24911348/195767144-15cb4b40-5808-4739-9d87-657bdf465190.png" alt="CuRL system diagram"/>
 </div>
@@ -19,4 +34,16 @@ In this paper, we propose CuRL and tCuRL, coupled representation learning method
 [paper link](https://link.springer.com/chapter/10.1007/978-3-030-86383-8_2)
 
 Cite this paper as: \
-Gramopadhye M. et al. (2021) CuRL: Coupled Representation Learning of Cards and Merchants to Detect Transaction Frauds. In: Farkaš I., Masulli P., Otte S., Wermter S. (eds) Artificial Neural Networks and Machine Learning – ICANN 2021. ICANN 2021. Lecture Notes in Computer Science, vol 12895. Springer, Cham. https://doi.org/10.1007/978-3-030-86383-8_2
+<pre>
+  <code>
+    @InProceedings{Gramopadhye2021CuRL,
+    author="Gramopadhye, Maitrey and Singh, Shreyansh and Agarwal, Kushagra and Srivasatava, Nitish and Singh, Alok Mani and Asthana, Siddhartha and Arora, Ankur",
+    title="CuRL: Coupled Representation Learning of Cards and Merchants to Detect Transaction Frauds",
+    booktitle="Artificial Neural Networks and Machine Learning -- ICANN 2021",
+    year="2021",
+    publisher="Springer International Publishing",
+    pages="16--29",
+    isbn="978-3-030-86383-8"
+    }
+  </code>
+</pre>
