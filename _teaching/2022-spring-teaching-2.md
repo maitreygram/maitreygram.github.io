@@ -15,6 +15,6 @@ a:link {
 </style>
 
 
-I worked as a Teaching Assistant for COMP 523 - Software Engineering Lab (Spring 2022) taught by Prof. [David Stotts](http://www.cs.unc.edu/~stotts/). I conducted multiple meetings with students to track their progress and guide them with completing their software development project for the course.
+I worked as a Teaching Assistant for COMP 523 - Software Engineering Lab (Spring 2022) taught by Prof. [David Stotts](http://www.cs.unc.edu/~stotts/). I conducted weekly meetings with the students to track their progress and guide them with completing their software development project for the course.
 
 [The course website](http://www.cs.unc.edu/~stotts/COMP523-s22/)
