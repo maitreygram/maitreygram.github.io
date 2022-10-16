@@ -22,8 +22,8 @@ a:link {
 }
 </style>
 
-<div class="card" style="width: 50%;">
-  <video controls>
+<div class="card">
+  <video width="100%" controls>
     <source src="/images/Scene_aware_LLM_planner.mp4" type="video/mp4">
   Your browser does not support the video tag.
   </video>
