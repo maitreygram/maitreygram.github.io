@@ -1,11 +1,11 @@
 ---
-title: "Generating Executable Action Plans with Environmentally-Aware Language Models"
+title: "3D Reconstruction in Cryo-Electron Microscopy"
 collection: publications
-permalink: /publication/Scene-aware-language-planner
+permalink: /publication/CryoEM
 excerpt: 'In this paper, we propose an approach to utilise large language models and convert high level tasks to environmentally-aware action plans that can be directly mapped to executable agent actions. Our approach involves integrating environmental objects and object relations as additional inputs into LLM action plan generation to provide the system with an awareness of its surroundings.'
 date: 2022-10-10
-venue: 'arXiv preprint'
-paperurl: 'https://arxiv.org/abs/2210.04964'
+<!-- venue: 'arXiv preprint' -->
+<!-- paperurl: 'https://arxiv.org/abs/2210.04964' -->
 ---
 
 <style>
