@@ -7,6 +7,12 @@ redirect_from:
   - /resume
 ---
 
+<style>
+a:link {
+  text-decoration: none;
+}
+</style>
+
 {% include base_path %}
 
 Education
