@@ -49,8 +49,6 @@ a:link {
 
 {% include base_path %}
 
-# Circum Vitae
-
 <div class="row">
   <div class="column" style="width: 33%;background-color: #D3D3D3;">
     <div class="card">
