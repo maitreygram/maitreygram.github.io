@@ -52,7 +52,7 @@ I am currently a graduate student in the <a href="https://cs.unc.edu">Computer S
 
 I have worked on Graph Machine Learning as a researcher at <a href="https://www.mastercard.co.in/en-in.html">AI Garage, Mastercard</a> and I'm interested in finding ways to port my experience across fields to my current and future projects. I also interned at <a href="https://research.samsung.com/sri-b">Samsung Research Institute, Bangalore</a> where I worked in the Computer Vision team of the Advanced Technology Lab.
 
-I completed my Bachelors in Technology in <a href="https://www.cse.iitb.ac.in">Computer Science</a> from the <a href="https://www.iitb.ac.in">Indian Institute of Technology, Bombay</a> where I worked with Prof. <a href="https://www.cse.iitb.ac.in/~ajitvr">Ajit Rajwade</a> on my <a href="/thesis/BTP_Report_2.pdf">Undergraduate thesis</a> in the field of 3D Reconstruction in Cryogenic Electron Microscopy. I also was the Software team lead for <a href="https://iitbmartian.github.io">The IIT Bombay Mars Rover Team</a>, where I worked on building rovers capable of traversing on Mars like terrain.
+I completed my Bachelors in Technology in <a href="https://www.cse.iitb.ac.in">Computer Science</a> from the <a href="https://www.iitb.ac.in">Indian Institute of Technology, Bombay</a> where I worked with Prof. <a href="https://www.cse.iitb.ac.in/~ajitvr">Ajit Rajwade</a> on my <a href="https://maitreygram.github.io/thesis/BTP_Report_2.pdf">Undergraduate thesis</a> in the field of 3D Reconstruction in Cryogenic Electron Microscopy. I also was the Software team lead for <a href="https://iitbmartian.github.io">The IIT Bombay Mars Rover Team</a>, where I worked on building rovers capable of traversing on Mars like terrain.
 
 # Recent Publications
 
