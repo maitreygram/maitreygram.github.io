@@ -67,9 +67,9 @@ a:link {
   </div>
 </div>
 <br>
-<div class="row">
+<div class="row" style="background-color: #D3D3D3;">
   <div class="card">
-    <a href="https://maitreygram.github.io/CV/Circum_Vitae_1_page_10_22.pdf">Full PDF</a>
+    <a href="https://maitreygram.github.io/CV/Circum_Vitae_1_page_10_22.pdf">Open full PDF</a>
   </div>
 </div>
 <br>
