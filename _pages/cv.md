@@ -56,10 +56,14 @@ a:link {
     <div class="card">
       <a href="https://maitreygram.github.io/CV1/">1 Page CV</a>
     </div>
-    <div class="card" style="width: 33%;">
+  </div>
+  <div class="column" style="width: 33%;">
+    <div class="card">
       <a href="https://maitreygram.github.io/CV2/">2 Page CV</a>
     </div>
-    <div class="card" style="width: 33%;">
+  </div>
+  <div class="column" style="width: 33%;">
+    <div class="card">
       <a href="https://maitreygram.github.io/CV_full/">Complete CV</a>
     </div>
   </div>
