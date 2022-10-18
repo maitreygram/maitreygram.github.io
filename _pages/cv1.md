@@ -66,7 +66,7 @@ a:link {
     </div>
   </div>
 </div>
-<div class="row" style="background-color: #D3D3D3;align: center;">
+<div class="row" style="background-color: #D3D3D3;text-align: center;">
   <div class="card">
     <a href="https://maitreygram.github.io/CV/Circum_Vitae_1_page_10_22.pdf">Open full PDF</a>
   </div>
