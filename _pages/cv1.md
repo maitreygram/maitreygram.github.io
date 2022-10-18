@@ -62,7 +62,7 @@ a:link {
   </div>
   <div class="column" style="width: 33%;">
     <div class="card">
-      <a href="https://maitreygram.github.io/CV_full/">Full Circum Vitae</a>
+      <a href="https://maitreygram.github.io/CV_full/">Complete Circum Vitae</a>
     </div>
   </div>
 </div>
