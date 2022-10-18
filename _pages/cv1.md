@@ -62,13 +62,13 @@ a:link {
   </div>
   <div class="column" style="width: 33%;">
     <div class="card">
-      <a href="https://maitreygram.github.io/CV_full/">Complete Circum Vitae</a>
+      <a href="https://maitreygram.github.io/CV_full/">Full Circum Vitae</a>
     </div>
   </div>
 </div>
 <br>
-<div class="row" style="height: 1000vh;">
+<div class="row" style="height: 500px;">
   <div class="card">
-    <iframe src="https://maitreygram.github.io/CV/Circum_Vitae_1_page_10_22.pdf" width="100%" height="1000%"></iframe>
+    <iframe src="https://maitreygram.github.io/CV/Circum_Vitae_1_page_10_22.pdf" width="100%" height="100%"></iframe>
   </div>
 </div>
