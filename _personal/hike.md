@@ -62,6 +62,7 @@ a:link {
     </div>
   </div>
 </div>
+<br>
 <div class="row">
   <div class="column">
     <div class="card">
@@ -79,6 +80,7 @@ a:link {
     </div>
   </div>
 </div>
+<br>
 <div class="row">
   <div class="column">
     <div class="card">
@@ -96,6 +98,7 @@ a:link {
     </div>
   </div>
 </div>
+<br>
 <div class="row">
   <div class="column">
     <div class="card">
@@ -113,6 +116,7 @@ a:link {
     </div>
   </div>
 </div>
+<br>
 <div class="row">
   <div class="column">
     <div class="card">
@@ -130,6 +134,7 @@ a:link {
     </div>
   </div>
 </div>
+<br>
 <div class="row">
   <div class="column">
     <div class="card">
@@ -147,7 +152,7 @@ a:link {
     </div>
   </div>
 </div>
-
+<br>
 <div class="row">
   <div class="column">
     <div class="card">
