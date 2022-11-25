@@ -107,7 +107,7 @@ a:link {
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitreygram.github.io/images/20210904_190829.jpg"/>
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_20181211_100818-01.jpg"/>
     </div>
   </div>
   <div class="column">
@@ -138,7 +138,7 @@ a:link {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitreygram.github.io/images/IMG_20181211_100818-01.jpg"/>
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_20190115_095114_342.jpg"/>
     </div>
   </div>
   <div class="column">
@@ -156,7 +156,7 @@ a:link {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitreygram.github.io/images/IMG_20190115_095114_342.jpg"/>
+      <img alt="image" src="https://maitreygram.github.io/images/20210904_190829.jpg"/>
     </div>
   </div>
   <div class="column">
