@@ -9,7 +9,7 @@ excerpt: ""
 /* Float four columns side by side */
 .column {
   float: left;
-  width: 30%;
+  width: 33%;
   padding: 0 10px;
 }
 
