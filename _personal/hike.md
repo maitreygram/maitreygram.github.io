@@ -62,7 +62,6 @@ a:link {
     </div>
   </div>
 </div>
-<br>
 <div class="row">
   <div class="column">
     <div class="card">
@@ -80,7 +79,6 @@ a:link {
     </div>
   </div>
 </div>
-<br>
 <div class="row">
   <div class="column">
     <div class="card">
@@ -98,25 +96,6 @@ a:link {
     </div>
   </div>
 </div>
-<br>
-<div class="row">
-  <div class="column">
-    <div class="card">
-      <img alt="image" src="https://maitreygram.github.io/images/20201213_131345.jpg"/>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-      <img alt="image" src="https://maitreygram.github.io/images/IMG_20181211_100818-01.jpg"/>
-    </div>
-  </div>
-  <div class="column">
-    <div class="card">
-      <img alt="image" src="https://maitreygram.github.io/images/IMG_1157.jpg"/>
-    </div>
-  </div>
-</div>
-<br>
 <div class="row">
   <div class="column">
     <div class="card">
@@ -130,11 +109,10 @@ a:link {
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitreygram.github.io/images/IMG_20180712_023009_667.jpg"/>
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_1157.jpg"/>
     </div>
   </div>
 </div>
-<br>
 <div class="row">
   <div class="column">
     <div class="card">
@@ -143,7 +121,7 @@ a:link {
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitreygram.github.io/images/IMG_20181213_110438_253_2.jpg"/>
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_20180712_023009_667.jpg"/>
     </div>
   </div>
   <div class="column">
@@ -152,7 +130,6 @@ a:link {
     </div>
   </div>
 </div>
-<br>
 <div class="row">
   <div class="column">
     <div class="card">
@@ -167,6 +144,24 @@ a:link {
   <div class="column">
     <div class="card">
       <img alt="image" src="https://maitreygram.github.io/images/20210905_122555.jpg"/>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitreygram.github.io/images/20201213_131345.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_20181211_100818-01.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_20181213_110438_253_2.jpg"/>
     </div>
   </div>
 </div>
