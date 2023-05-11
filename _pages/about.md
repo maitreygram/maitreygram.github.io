@@ -95,7 +95,7 @@ I completed my Bachelors in Technology in <a href="https://www.cse.iitb.ac.in">C
       <i>ICANN, 2021</i>
     </div>
     <div class="card">
-      <i><a href="https://link.springer.com/chapter/10.1007/978-3-030-86383-8_2">paper link</a></i>
+      <i><a href="https://link.springer.com/chapter/10.1007/978-3-030-86383-8_2">paper</a></i>
     </div>
   </div>
 </div>
