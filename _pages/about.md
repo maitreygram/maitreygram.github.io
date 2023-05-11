@@ -73,7 +73,7 @@ I completed my Bachelors in Technology in <a href="https://www.cse.iitb.ac.in">C
       <i>arXiv preprint, 2022</i>
     </div>
     <div class="card">
-      <i><a href="https://arxiv.org/abs/2210.04964">arXiv</a>, <a href="https://github.com/hri-ironlab/scene_aware_language_planner">code</a></i>
+      <i><a href="https://arxiv.org/abs/2210.04964">paper</a>, <a href="https://github.com/hri-ironlab/scene_aware_language_planner">code</a></i>
     </div>
   </div>
 </div>
