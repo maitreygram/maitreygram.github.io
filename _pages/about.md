@@ -94,9 +94,6 @@ I completed my Bachelors in Technology in <a href="https://www.cse.iitb.ac.in">C
       <b>Maitrey Gramopadhye</b>, Arran Zeyu Wang, Leonard Shearer, Tony Qin and Daniel Szafir
     </div>
     <div class="card">
-      <i>arXiv preprint, 2022</i>
-    </div>
-    <div class="card">
       <i><a href="https://maitreygram.github.io/papers/VR_or_not_XR_ROB_23.pdf">paper</a></i>
     </div>
   </div>
