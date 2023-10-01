@@ -1,11 +1,11 @@
 ---
-title: "Generating Executable Action Plans with Environmentally-Aware Language Models"
+title: "Assessing the Impact of VR Interfaces in Human-Drone Interaction"
 collection: publications
-permalink: /publication/Scene-aware-language-planner
-excerpt: 'In this paper, we propose an approach to utilise large language models and convert high level tasks to environmentally-aware action plans that can be directly mapped to executable agent actions. Our approach involves integrating environmental objects and object relations as additional inputs into LLM action plan generation to provide the system with an awareness of its surroundings.'
-date: 2023-05-02
-venue: 'arXiv preprint'
-paperurl: 'https://arxiv.org/abs/2210.04964'
+permalink: /publication/VR-or-not
+excerpt: 'In this paper, we designed a novel VR interface to control a 6-DOF drone and explored the impact and differences of VR and 2D interfaces on layman human-drone interaction.'
+date: 2023-07-07
+venue: 'Horizons of an Extended Robotics Reality (XR-ROB Workshop) | IROS 2023'
+paperurl: 'https://maitreygram.github.io/papers/VR_or_not_XR_ROB_23.pdf'
 ---
 
 <style>
@@ -24,23 +24,22 @@ a:link {
 
 <div class="card">
   <video width="100%" controls>
-    <source src="/images/Scene_aware_LLM_planner__IROS_.mp4" type="video/mp4">
+    <source src="/images/15sec_720p.mp4" type="video/mp4">
   Your browser does not support the video tag.
   </video>
 </div>
 <br>
 
-Large Language Models (LLMs) trained using massive text datasets have recently shown promise in generating action plans for robotic agents from high level text queries. However, these models typically do not consider the robot's environment, resulting in generated plans that may not actually be executable, due to ambiguities in the planned actions or environmental constraints. In this paper, we propose an approach to generate environmentally-aware action plans that agents are better able to execute. Our approach involves integrating environmental objects and object relations as additional inputs into LLM action plan generation to provide the system with an awareness of its surroundings, resulting in plans where each generated action is mapped to objects present in the scene. We also design a novel scoring function that, along with generating the action steps and associating them with objects, helps the system disambiguate among object instances and take into account their states. We evaluated our approach using the VirtualHome simulator and the ActivityPrograms knowledge base and found that action plans generated from our system had a 310% improvement in executability and a 147% improvement in correctness over prior work.
+Drones are a uniquely useful type of robot that allows aerial exploration and surveying. However, they require substantial training to operate effectively. Previous research has introduced novel drone interfaces, but have not substantively compared these interfaces. In this paper, we explore the impact and differences of VR and 2D interfaces on layman human-drone interaction. We measured performance on three environmental exploration tasks in an indoor environment. Participants were introduced to the interfaces and then asked to read random sequences of digits from 1 meter away. The simple task had the participant read one sequence, while the complex task had the participant read four sequences in positions around the room. This required participants to demonstrate moderate levels of competence while operating the drone. Our results suggest that our VR interface has a comparable performance to a smartphone interface across all three tasks. Despite this, VR interfaces show potential to reduce barriers to drone operation and should be the focus of future research.
 
-[paper](https://arxiv.org/abs/2210.04964), [code](https://github.com/hri-ironlab/scene_aware_language_planner)
+[paper](https://maitreygram.github.io/papers/VR_or_not_XR_ROB_23.pdf)
 
 Cite this paper as:
 <pre>
   <code>
-    @article{Gramopadhye2022SceneAP,
-    author = {Gramopadhye, Maitrey and Szafir, Daniel},
-    title = {Generating Executable Action Plans with Environmentally-Aware Language Models},
-    publisher = {arXiv},
+    @article{gramopadhye2023assessing,
+    author = {Gramopadhye, Maitrey and Wang, Arran Zeyu and Shearer, Leonard and Qin, Tony and Szafir, Daniel},
+    title = {Assessing the Impact of VR Interfaces in Human-Drone Interaction},
     year = {2023}
     }
   </code>
