@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/VR-or-not
 excerpt: 'In this paper, we designed a novel VR interface to control a 6-DOF drone and explored the impact and differences of VR and 2D interfaces on layman human-drone interaction.'
 date: 2023-07-07
-venue: 'Horizons of an Extended Robotics Reality (XR-ROB Workshop) | IROS 2023'
+venue: 'Horizons of an Extended Robotics Reality (XR-ROB Workshop) | IROS'
 paperurl: 'https://maitreygram.github.io/papers/VR_or_not_XR_ROB_23.pdf'
 ---
 
