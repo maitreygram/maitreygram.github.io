@@ -78,6 +78,33 @@ I completed my Bachelors in Technology in <a href="https://www.cse.iitb.ac.in">C
   </div>
 </div>
 <br>
+
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img alt="interface design" src="https://github.com/maitreygram/maitreygram.github.io/assets/24911348/6ff2cc18-96cf-4b6e-a689-eba30d6efac8"/>
+    </div>
+  </div>
+  <div class="column" style="width: 75%;">
+    <div class="card">
+      <a href="https://maitreygram.github.io/publication/VR-or-not">Assessing the Impact of VR Interfaces in Human-Drone Interaction</a>
+    </div>
+    <div class="card">
+      <b>Maitrey Gramopadhye</b>, Arran Zeyu Wang, Leonard Shearer, Tony Qin and Daniel Szafir
+    </div>
+    <div class="card">
+      <i>arXiv preprint, 2022</i>
+    </div>
+    <div class="card">
+      <i><a href="https://maitreygram.github.io/papers/VR_or_not_XR_ROB_23.pdf">paper</a></i>
+    </div>
+  </div>
+</div>
+<br>
+
+
+
 <div class="row">
   <div class="column">
     <div class="card">
