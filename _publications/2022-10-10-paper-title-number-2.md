@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Scene-aware-language-planner
 excerpt: 'In this paper, we propose an approach to utilise large language models and convert high level tasks to environmentally-aware action plans that can be directly mapped to executable agent actions. Our approach involves integrating environmental objects and object relations as additional inputs into LLM action plan generation to provide the system with an awareness of its surroundings.'
 date: 2023-05-02
-venue: 'arXiv preprint'
+venue: '2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 paperurl: 'https://arxiv.org/abs/2210.04964'
 ---
 
@@ -37,7 +37,7 @@ Large Language Models (LLMs) trained using massive text datasets have recently s
 Cite this paper as:
 <pre>
   <code>
-    @article{Gramopadhye2022SceneAP,
+    @article{gramopadhye2022generating,
     author = {Gramopadhye, Maitrey and Szafir, Daniel},
     title = {Generating Executable Action Plans with Environmentally-Aware Language Models},
     publisher = {arXiv},
