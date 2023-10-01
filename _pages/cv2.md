@@ -68,12 +68,12 @@ a:link {
 </div>
 <div class="row" style="background-color: #D3D3D3;text-align: center;">
   <div class="card">
-    <a href="https://maitreygram.github.io/CV/Circum_Vitae_2_page_10_22.pdf">Open full PDF</a>
+    <a href="https://maitreygram.github.io/CV/Circum_Vitae_2_page_10_23.pdf">Open full PDF</a>
   </div>
 </div>
 <br>
 <div class="row">
   <div class="card">
-    <iframe src="https://maitreygram.github.io/CV/Circum_Vitae_2_page_10_22.pdf" width="100%" height="1000"></iframe>
+    <iframe src="https://maitreygram.github.io/CV/Circum_Vitae_2_page_10_23.pdf" width="100%" height="1000"></iframe>
   </div>
 </div>
