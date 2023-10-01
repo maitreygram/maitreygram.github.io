@@ -36,7 +36,7 @@ In this paper, we propose CuRL and tCuRL, coupled representation learning method
 Cite this paper as:
 <pre>
   <code>
-    @article{Gramopadhye2021CuRL,
+    @article{gramopadhye2021curl,
     author="Gramopadhye, Maitrey and Singh, Shreyansh and Agarwal, Kushagra and Srivasatava, Nitish and Singh, Alok Mani and Asthana, Siddhartha and Arora, Ankur",
     title="CuRL: Coupled Representation Learning of Cards and Merchants to Detect Transaction Frauds",
     booktitle="Artificial Neural Networks and Machine Learning -- ICANN 2021",
