@@ -70,7 +70,7 @@ I completed my Bachelors in Technology in <a href="https://www.cse.iitb.ac.in">C
       <b>Maitrey Gramopadhye</b>, Daniel Szafir
     </div>
     <div class="card">
-      <i>arXiv preprint, 2022</i>
+      <i>IROS, 2023</i>
     </div>
     <div class="card">
       <i><a href="https://arxiv.org/abs/2210.04964">paper</a>, <a href="https://github.com/hri-ironlab/scene_aware_language_planner">code</a></i>
@@ -92,6 +92,9 @@ I completed my Bachelors in Technology in <a href="https://www.cse.iitb.ac.in">C
     </div>
     <div class="card">
       <b>Maitrey Gramopadhye</b>, Arran Zeyu Wang, Leonard Shearer, Tony Qin and Daniel Szafir
+    </div>
+    <div class="card">
+      <i>XR-ROB | IROS, 2023</i>
     </div>
     <div class="card">
       <i><a href="https://maitreygram.github.io/papers/VR_or_not_XR_ROB_23.pdf">paper</a></i>
