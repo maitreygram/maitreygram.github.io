@@ -97,7 +97,7 @@ I completed my Bachelors in Technology in <a href="https://www.cse.iitb.ac.in">C
       <i>XR-ROB | IROS, 2023</i>
     </div>
     <div class="card">
-      <i><a href="https://maitreygram.github.io/papers/VR_or_not_XR_ROB_23.pdf">paper</a></i>
+      <!-- <i><a href="https://maitreygram.github.io/papers/VR_or_not_XR_ROB_23.pdf">paper</a></i> -->
     </div>
   </div>
 </div>
