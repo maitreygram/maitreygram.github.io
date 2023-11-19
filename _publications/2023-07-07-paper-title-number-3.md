@@ -1,7 +1,7 @@
 ---
 title: "Assessing the Impact of VR Interfaces in Human-Drone Interaction"
 collection: publications
-permalink: /publication/VR-or-not
+permalink: /publications/VR-or-not
 excerpt: 'In this paper, we designed a novel VR interface to control a 6-DOF drone and explored the impact and differences of VR and 2D interfaces on layman human-drone interaction.'
 date: 2023-07-07
 venue: 'Horizons of an Extended Robotics Reality (XR-ROB Workshop) | IROS'
