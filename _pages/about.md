@@ -64,7 +64,7 @@ I completed my Bachelors in Technology in <a href="https://www.cse.iitb.ac.in">C
   </div>
   <div class="column" style="width: 75%;">
     <div class="card">
-      <a href="https://maitreygram.github.io/publication/Scene-aware-language-planner">Generating Executable Action Plans with Environmentally-Aware Language Models</a>
+      <a href="https://maitreygram.github.io/publications/Scene-aware-language-planner">Generating Executable Action Plans with Environmentally-Aware Language Models</a>
     </div>
     <div class="card">
       <b>Maitrey Gramopadhye</b>, Daniel Szafir
@@ -88,7 +88,7 @@ I completed my Bachelors in Technology in <a href="https://www.cse.iitb.ac.in">C
   </div>
   <div class="column" style="width: 75%;">
     <div class="card">
-      <a href="https://maitreygram.github.io/publication/VR-or-not">Assessing the Impact of VR Interfaces in Human-Drone Interaction</a>
+      <a href="https://maitreygram.github.io/publications/VR-or-not">Assessing the Impact of VR Interfaces in Human-Drone Interaction</a>
     </div>
     <div class="card">
       <b>Maitrey Gramopadhye</b>, Arran Zeyu Wang, Leonard Shearer, Tony Qin and Daniel Szafir
@@ -113,7 +113,7 @@ I completed my Bachelors in Technology in <a href="https://www.cse.iitb.ac.in">C
   </div>
   <div class="column" style="width: 75%;">
     <div class="card">
-      <a href="https://maitreygram.github.io/publication/CuRL">CuRL: Coupled Representation Learning of Cards and Merchants to Detect Transaction Frauds</a>
+      <a href="https://maitreygram.github.io/publications/CuRL">CuRL: Coupled Representation Learning of Cards and Merchants to Detect Transaction Frauds</a>
     </div>
     <div class="card">
       <b>Maitrey Gramopadhye</b>, Shreyansh Singh, Kushagra Agarwal, Nitish Srivasatava, Alok Singh, Siddhartha Asthana and Ankur Arora
