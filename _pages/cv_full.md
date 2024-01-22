@@ -49,31 +49,14 @@ a:link {
 
 {% include base_path %}
 
-<div class="row">
-  <div class="column" style="width: 33%;text-align: center;">
-    <div class="card">
-      <a href="https://maitreygram.github.io/CV1/">1 Page Circum Vitae</a>
-    </div>
-  </div>
-  <div class="column" style="width: 34%;text-align: center;">
-    <div class="card">
-      <a href="https://maitreygram.github.io/CV2/">2 Page Circum Vitae</a>
-    </div>
-  </div>
-  <div class="column" style="width: 33%;background-color: #D3D3D3;text-align: center;">
-    <div class="card">
-      <a href="https://maitreygram.github.io/CV_full/">Complete Circum Vitae</a>
-    </div>
-  </div>
-</div>
 <div class="row" style="background-color: #D3D3D3;text-align: center;">
   <div class="card">
-    <a href="https://maitreygram.github.io/CV/Circum_Vitae_Full_10_23.pdf">Open full PDF</a>
+    <a href="https://maitreygram.github.io/CV/PhD_resume.pdf">Open full PDF</a>
   </div>
 </div>
 <br>
 <div class="row">
   <div class="card">
-    <iframe src="https://maitreygram.github.io/CV/Circum_Vitae_Full_10_23.pdf" width="100%" height="1000"></iframe>
+    <iframe src="https://maitreygram.github.io/CV/PhD_resume.pdf" width="100%" height="1000"></iframe>
   </div>
 </div>
