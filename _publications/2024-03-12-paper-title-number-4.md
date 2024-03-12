@@ -33,27 +33,27 @@ a:link {
 In this work, we present the design and evaluation of an immersive Cyber-Physical Control Room interface for remote mobile robots that provides users with both robot-egocentric and robot-exocentric 3D perspectives. We evaluate the Cyber-Physical Control room against a traditional robot interface in a mock disaster response scenario that features a mixed human-robot field team. In our evaluation, we found that the Cyber-Physical Control Room improved robot operator effectiveness by 28% while navigating a complex warehouse environment and performing a visual search. The Cyber-Physical Control Room also enhanced various aspects of human-robot teaming, including social engagement, the ability of a remote robot teleoperator to track their human partner in the field, and opinions of human teammate leadership qualities.
 
 <div class="row">
-  <div class="column">
+  <div class="column" width="49%">
     <div class="card">
       <video width="49%" controls>
         <source src="/images/spot_720.mp4" type="video/mp4">
       Your browser does not support the video tag.
       </video>
     </div>
-    <div class="card">
+<!--     <div class="card">
       <p>The robot platform used - Boston Dynamics Spot, with custom sensor stack</p>
-    </div>
+    </div> -->
   </div>
-  <div class="column">
+  <div class="column" width="49%">
     <div class="card">
       <video width="49%" controls>
         <source src="/images/warehouse_540.mp4" type="video/mp4">
       Your browser does not support the video tag.
       </video>
     </div>
-    <div class="card">
+<!--     <div class="card">
       <p>Tour of the warehouse used for the mock disaster response study</p>
-    </div>
+    </div> -->
   </div>
 </div>
 <br>
