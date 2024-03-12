@@ -34,26 +34,26 @@ In this work, we present the design and evaluation of an immersive Cyber-Physica
 
 <div class="row">
   <div class="column" width="10%">
-    <div class="card">
+<!--     <div class="card">
       <video width="10%" controls>
         <source src="/images/spot_720.mp4" type="video/mp4">
       Your browser does not support the video tag.
       </video>
-    </div>
-<!--     <div class="card">
-      <p>The robot platform used - Boston Dynamics Spot, with custom sensor stack</p>
     </div> -->
+    <div class="card">
+      <p>The robot platform used - Boston Dynamics Spot, with custom sensor stack</p>
+    </div>
   </div>
   <div class="column" width="10%">
-    <div class="card">
+<!--     <div class="card">
       <video width="10%" controls>
         <source src="/images/warehouse_540.mp4" type="video/mp4">
       Your browser does not support the video tag.
       </video>
-    </div>
-<!--     <div class="card">
-      <p>Tour of the warehouse used for the mock disaster response study</p>
     </div> -->
+    <div class="card">
+      <p>Tour of the warehouse used for the mock disaster response study</p>
+    </div>
   </div>
 </div>
 <br>
