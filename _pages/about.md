@@ -59,6 +59,26 @@ Prior to my graduate studies, I completed my Bachelors in Technology in <a href=
 <div class="row">
   <div class="column">
     <div class="card">
+      <img alt="interface" src="https://github.com/maitreygram/maitreygram.github.io/assets/24911348/834f53a9-66e5-4303-b088-5bd8b7320ee5"/>
+    </div>
+  </div>
+  <div class="column" style="width: 75%;">
+    <div class="card">
+      <a href="https://maitreygram.github.io/publications/mr_interface_mixed_team">The Cyber-Physical Control Room: A Mixed Reality Interface for Mobile Robot Teleoperation and Human-Robot Teaming</a>
+    </div>
+    <div class="card">
+      Michael E. Walker, <b>Maitrey Gramopadhye</b>, Bryce Ikeda, Jack Burns, Daniel Szafir
+    </div>
+    <div class="card">
+      <i>HRI, 2024</i>
+  </div>
+</div>
+<br>
+
+
+<div class="row">
+  <div class="column">
+    <div class="card">
       <img alt="system diagram" src="https://user-images.githubusercontent.com/24911348/195924327-b4230fe0-e6ec-4cfe-acf5-3ebf3db022a9.png"/>
     </div>
   </div>
