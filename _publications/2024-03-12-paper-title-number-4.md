@@ -2,9 +2,9 @@
 title: "The Cyber-Physical Control Room: A Mixed Reality Interface for Mobile Robot Teleoperation and Human-Robot Teaming"
 collection: publications
 permalink: /publications/mr_interface_mixed_team
-excerpt: 'In this paper, we designed a novel VR interface to control a 6-DOF drone and explored the impact and differences of VR and 2D interfaces on layman human-drone interaction.'
-date: 2023-07-07
-venue: 'Horizons of an Extended Robotics Reality (XR-ROB Workshop) | IROS'
+excerpt: 'In this paper, we present the design and evaluation of an immersive Cyber-Physical Control Room interface for teleoperating remote mobile robots.'
+date: 2024-03-12
+venue: 'ACM/IEEE International Conference on Human Robot Interaction (HRI), 2024'
 paperurl: 'https://maitreygram.github.io/papers/VR_or_not_XR_ROB_23.pdf'
 ---
 
