@@ -65,6 +65,7 @@ In this work, we present the design and evaluation of an immersive Cyber-Physica
     <div class="card">
       <img alt="interface" src="https://github.com/maitreygram/maitreygram.github.io/assets/24911348/834f53a9-66e5-4303-b088-5bd8b7320ee5"/>
     </div>
+    <br>
     <div class="card">
       <p>The design of the augmented virtuality interface began with the creation of a virtual environment that provided enough space for users to comfortably walk around the entirety of a 3D reconstruction of a large indoor room. Additionally, the size of the environment matched the size of the real-life operator environment used in the experiment evaluation. The skybox was shaded black to provide the greatest contrast between the rendered sensor data and the virtual environment background. Stereo video and point cloud data were processed, transmitted, and rendered in real time; therefore, the system did not require prior information about a robot’s remote and potentially unknown environment.</p>
     </div>
