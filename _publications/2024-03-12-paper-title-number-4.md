@@ -113,9 +113,11 @@ In this work, we present the design and evaluation of an immersive Cyber-Physica
   </div>
   <div class="column" style="width: 33%;">
     <div class="card">
+      <img alt="Perceptions of Human Teammate Leadership Qualities" src="https://github.com/maitreygram/maitreygram.github.io/assets/24911348/ebf957ac-75cc-4e12-a29b-517ee66e5e47">
     </div>
     <br>
     <div class="card">
+      <p>The Cyber-Physical Control Room enhanced the perception of the human teammate's leadership quality over the baseline interface</p>
     </div>
   </div>
 </div>
