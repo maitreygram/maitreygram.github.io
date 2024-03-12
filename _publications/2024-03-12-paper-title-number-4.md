@@ -28,6 +28,8 @@ a:link {
 }
 </style>
 
+<p>Michael E. Walker, Maitrey Gramopadhye, Bryce Ikeda, Jack Burns, Daniel Szafir</p>
+<br>
 <div class="card">
   <video width="100%" controls>
     <source src="/images/interface_demo_540.mp4" type="video/mp4">
