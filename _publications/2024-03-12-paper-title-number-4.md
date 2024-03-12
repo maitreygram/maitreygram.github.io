@@ -35,7 +35,7 @@ In this work, we present the design and evaluation of an immersive Cyber-Physica
 <div class="row">
   <div class="column">
     <div class="card">
-      <video controls>
+      <video width="49%" controls>
         <source src="/images/spot_720.mp4" type="video/mp4">
       Your browser does not support the video tag.
       </video>
@@ -46,7 +46,7 @@ In this work, we present the design and evaluation of an immersive Cyber-Physica
   </div>
   <div class="column">
     <div class="card">
-      <video controls>
+      <video width="49%" controls>
         <source src="/images/warehouse_540.mp4" type="video/mp4">
       Your browser does not support the video tag.
       </video>
