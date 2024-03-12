@@ -30,10 +30,10 @@ a:link {
 </div>
 <br>
 
-In this work, we present the design and evaluation of an immer- sive Cyber-Physical Control Room interface for remote mobile robots that provides users with both robot-egocentric and robot- exocentric 3D perspectives. We evaluate the Cyber-Physical Control room against a traditional robot interface in a mock disaster re- sponse scenario that features a mixed human-robot field team. In our evaluation, we found that the Cyber-Physical Control Room improved robot operator effectiveness by 28% while navigating a complex warehouse environment and performing a visual search. The Cyber-Physical Control Room also enhanced various aspects of human-robot teaming, including social engagement, the ability of a remote robot teleoperator to track their human partner in the field, and opinions of human teammate leadership qualities.
+In this work, we present the design and evaluation of an immersive Cyber-Physical Control Room interface for remote mobile robots that provides users with both robot-egocentric and robot-exocentric 3D perspectives. We evaluate the Cyber-Physical Control room against a traditional robot interface in a mock disaster response scenario that features a mixed human-robot field team. In our evaluation, we found that the Cyber-Physical Control Room improved robot operator effectiveness by 28% while navigating a complex warehouse environment and performing a visual search. The Cyber-Physical Control Room also enhanced various aspects of human-robot teaming, including social engagement, the ability of a remote robot teleoperator to track their human partner in the field, and opinions of human teammate leadership qualities.
 
 <div class="row">
-  <div class="column" style="width: 50%;">
+  <div class="column" style="width: 49%;">
     <div class="card">
       <video width="100%" controls>
         <source src="/images/spot_720.mp4" type="video/mp4">
@@ -44,7 +44,7 @@ In this work, we present the design and evaluation of an immer- sive Cyber-Physi
       <p>The robot platform used - Boston Dynamics Spot, with custom sensor stack</p>
     </div>
   </div>
-  <div class="column" style="width: 50%;">
+  <div class="column" style="width: 49%;">
     <div class="card">
       <video width="100%" controls>
         <source src="/images/warehouse_540.mp4" type="video/mp4">
@@ -58,3 +58,7 @@ In this work, we present the design and evaluation of an immer- sive Cyber-Physi
 </div>
 <br>
 
+<h3>Interface Design</h3>
+The design of the augmented virtuality interface began with the creation of a virtual environment that provided enough space for users to comfortably walk around the entirety of a 3D reconstruction of a large indoor room. Additionally, the size of the environment matched the size of the real-life operator environment used in the experiment evaluation. The skybox was shaded black to provide the greatest contrast between the rendered sensor data and the virtual environment background. Stereo video and point cloud data were processed, transmitted, and rendered in real time; therefore, the system did not require prior information about a robot’s remote and potentially unknown environment. See Figure 1.
+To provide users with a robot-egocentric perspective within the interface, an External Sensor Images and Video VDE [57] was added to the virtual environment. To make the images 3D to the robot oper- ator, both the left and right video streams, transmitted from a stereo camera mounted on the robot, were rendered within the interface simultaneously. A small horizontal offset was added between the video streams, while the left video stream was masked (i.e., made invisible) to the user’s right eye, and the right video stream was masked to the left eye. In this way, each eye only sees one of the offset images, which allowed users to see the video stream as 3D via stereopsis. Additionally, we wanted to ensure robot operators were able to freely view the 3D reconstruction of the environment from any angle without losing sight of the video stream. Therefore, the panels holding the video stream were programmed to slide on the rails that encircled the virtual environment to automatically center in front of the user. See Figures 1 and 3.
+An Environment Digital Twin VDE [57] was added to the inter- face to provide a robot-exocentric perspective within the interface. This digital twin took the form of a dense point cloud, rendered in the center of the virtual environment, that was generated from streamed laser scan data collected by the robot. Users were able to scale the reconstruction up (to allow for more detailed searching) or down (creating a minimap environment summary or top-down bird’s eye view) in size. Within the point cloud a Visualization Ro- bot VDE that acted in the role of an External Robot Pose VDE and Robot Location VDE [57]. The Visualization Robot was accurately positioned within the point cloud with an accurate pose that up- dated in real time to allow users to better understand where the robot is facing and its current operational status. See Figure 3.
