@@ -41,7 +41,7 @@ In this work, we present the design and evaluation of an immersive Cyber-Physica
 <div class="row">
   <div class="column" style="width: 50%;">
     <div class="card">
-      <video controls>
+      <video controls style="width: 48%;">
         <source src="/images/spot_720.mp4" type="video/mp4">
       Your browser does not support the video tag.
       </video>
@@ -52,7 +52,7 @@ In this work, we present the design and evaluation of an immersive Cyber-Physica
   </div>
   <div class="column" style="width: 50%;">
     <div class="card">
-      <video controls>
+      <video controls style="width: 48%;">
         <source src="/images/warehouse_540.mp4" type="video/mp4">
       Your browser does not support the video tag.
       </video>
@@ -95,13 +95,23 @@ In this work, we present the design and evaluation of an immersive Cyber-Physica
 <div class="row">
   <div class="column" style="width: 33%;">
     <div class="card">
+      <img width="1146" alt="Total time to complete all tasks" src="https://github.com/maitreygram/maitreygram.github.io/assets/24911348/34e10e27-a0a9-4684-9629-95fa2fa12c4c">
+    </div>
+    <br>
+    <div class="card">
     </div>
   </div>
   <div class="column" style="width: 33%;">
     <div class="card">
     </div>
+    <br>
+    <div class="card">
+    </div>
   </div>
   <div class="column" style="width: 33%;">
+    <div class="card">
+    </div>
+    <br>
     <div class="card">
     </div>
   </div>
