@@ -2,6 +2,7 @@
 title: "CuRL: Coupled Representation Learning of Cards and Merchants to Detect Transaction Frauds"
 collection: publications
 permalink: /publications/CuRL
+authors: <b>Maitrey Gramopadhye</b>, Shreyansh Singh, Kushagra Agarwal, Nitish Srivasatava, Alok Singh, Siddhartha Asthana and Ankur Arora
 excerpt: 'In this paper, we propose CuRL and tCuRL, coupled representation learning methods that can effectively capture the higher-order interactions in a bipartite graph of payment entities to detect transaction fraud.'
 date: 2021-09-07
 venue: '30th International Conference on Artificial Neural Networks (ICANN)'
