@@ -95,7 +95,7 @@ In this work, we present the design and evaluation of an immersive Cyber-Physica
 <div class="row">
   <div class="column" style="width: 33%;">
     <div class="card">
-      <img width="1146" alt="Total time to complete all tasks" src="https://github.com/maitreygram/maitreygram.github.io/assets/24911348/34e10e27-a0a9-4684-9629-95fa2fa12c4c">
+      <img alt="Total time to complete all tasks" src="https://github.com/maitreygram/maitreygram.github.io/assets/24911348/34e10e27-a0a9-4684-9629-95fa2fa12c4c">
     </div>
     <br>
     <div class="card">
@@ -104,10 +104,11 @@ In this work, we present the design and evaluation of an immersive Cyber-Physica
   </div>
   <div class="column" style="width: 33%;">
     <div class="card">
-      <img width="858" alt="Social Engagement" src="https://github.com/maitreygram/maitreygram.github.io/assets/24911348/131b4780-e7a0-4f64-bd3a-a8d9e55a6930">
+      <img alt="Social Engagement" src="https://github.com/maitreygram/maitreygram.github.io/assets/24911348/131b4780-e7a0-4f64-bd3a-a8d9e55a6930">
     </div>
     <br>
     <div class="card">
+      <p>We found that the participants that used our interface made eye-contact substantially more frequently compared to the baseline interface</p>
     </div>
   </div>
   <div class="column" style="width: 33%;">
