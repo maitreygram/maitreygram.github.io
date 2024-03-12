@@ -2,6 +2,7 @@
 title: "Generating Executable Action Plans with Environmentally-Aware Language Models"
 collection: publications
 permalink: /publications/Scene-aware-language-planner
+authors: <b>Maitrey Gramopadhye</b>, Daniel Szafir
 excerpt: 'In this paper, we propose an approach to utilise large language models and convert high level tasks to environmentally-aware action plans that can be directly mapped to executable agent actions. Our approach involves integrating environmental objects and object relations as additional inputs into LLM action plan generation to provide the system with an awareness of its surroundings.'
 date: 2023-05-02
 venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
