@@ -10,6 +10,12 @@ venue: 'ACM/IEEE International Conference on Human Robot Interaction (HRI)'
 
 <style>
 /* Style the counter cards */
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+}
+
 .card {
 <!--   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */ -->
   padding: 16px;
@@ -107,4 +113,4 @@ In this work, we present the design and evaluation of an immersive Cyber-Physica
 </div>
 <br>
 
-## Results
+## Result
