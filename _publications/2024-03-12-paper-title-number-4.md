@@ -30,15 +30,24 @@ a:link {
 </div>
 <br>
 
+In this work, we present the design and evaluation of an immer- sive Cyber-Physical Control Room interface for remote mobile robots that provides users with both robot-egocentric and robot- exocentric 3D perspectives. We evaluate the Cyber-Physical Control room against a traditional robot interface in a mock disaster re- sponse scenario that features a mixed human-robot field team. In our evaluation, we found that the Cyber-Physical Control Room improved robot operator effectiveness by 28% while navigating a complex warehouse environment and performing a visual search. The Cyber-Physical Control Room also enhanced various aspects of human-robot teaming, including social engagement, the ability of a remote robot teleoperator to track their human partner in the field, and opinions of human teammate leadership qualities.
 
-
-Cite this paper as:
-<pre>
-  <code>
-    @article{gramopadhye2023assessing,
-    author = {Gramopadhye, Maitrey and Wang, Arran Zeyu and Shearer, Leonard and Qin, Tony and Szafir, Daniel},
-    title = {Assessing the Impact of VR Interfaces in Human-Drone Interaction},
-    year = {2023}
-    }
-  </code>
-</pre>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <video width="100%" controls>
+        <source src="/images/spot_720.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+      </video>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <video width="100%" controls>
+        <source src="/images/spot_720.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+      </video>
+    </div>
+  </div>
+</div>
+<br>
