@@ -58,7 +58,30 @@ In this work, we present the design and evaluation of an immersive Cyber-Physica
 </div>
 <br>
 
-<h3>Interface Design</h3>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img alt="system diagram" src="https://user-images.githubusercontent.com/24911348/195924327-b4230fe0-e6ec-4cfe-acf5-3ebf3db022a9.png"/>
+    </div>
+  </div>
+  <div class="column" style="width: 75%;">
+    <div class="card">
+      <a href="https://maitreygram.github.io/publications/Scene-aware-language-planner">Generating Executable Action Plans with Environmentally-Aware Language Models</a>
+    </div>
+    <div class="card">
+      <b>Maitrey Gramopadhye</b>, Daniel Szafir
+    </div>
+    <div class="card">
+      <i>IROS, 2023</i>
+    </div>
+    <div class="card">
+      <i><a href="https://arxiv.org/abs/2210.04964">paper</a>, <a href="https://github.com/hri-ironlab/scene_aware_language_planner">code</a></i>
+    </div>
+  </div>
+</div>
+<br>
+
+## Interface Design
 <div class="card">
   <img alt="interface" src="https://github.com/maitreygram/maitreygram.github.io/assets/24911348/834f53a9-66e5-4303-b088-5bd8b7320ee5"/>
 </div>
@@ -73,7 +96,8 @@ In this work, we present the design and evaluation of an immersive Cyber-Physica
   <p>An Environment Digital Twin VDE was added to the interface to provide a robot-exocentric perspective within the interface. This digital twin took the form of a dense point cloud, rendered in the center of the virtual environment, that was generated from streamed laser scan data collected by the robot. Users were able to scale the reconstruction up (to allow for more detailed searching) or down (creating a minimap environment summary or top-down bird’s eye view) in size. Within the point cloud a Visualization Robot VDE that acted in the role of an External Robot Pose VDE and Robot Location VDE. The Visualization Robot was accurately positioned within the point cloud with an accurate pose that up- dated in real time to allow users to better understand where the robot is facing and its current operational status.</p>
 </div>
 <br>
-<h3>Experimental Task</h3>
+
+## Experimental Task
 <div class="card">
   <p>We designed a mock disaster scenario in which a hurricane had damaged a chemical storage facility. To limit human exposure to the hazardous site, a mixed human-robot team was assembled to act as first responders. This team consisted of three members: (1) a human fieldworker, acted out by an experimental confederate, working on-site at the facility; (2) a mobile ground robot working on-site at the facility; and (3) a remote participant that remotely teleoperated the robot.Both team members independently moved through the warehouse to complete their own tasks. The teams’ objectives were to: (1) investigate the buildings’ safety (structural stability, risk of electrical fires, etc.); (2) ensure there are no chemical leaks; and (3) locate objects of interest within the building for extraction.</p>
 </div>
@@ -82,3 +106,5 @@ In this work, we present the design and evaluation of an immersive Cyber-Physica
 </p>
 </div>
 <br>
+
+## Results
