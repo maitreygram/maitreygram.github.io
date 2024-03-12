@@ -40,48 +40,25 @@ In this work, we present the design and evaluation of an immersive Cyber-Physica
 
 <div class="row">
   <div class="column" style="width: 50%;">
-<!--     <div class="card">
+    <div class="card">
       <video width="10%" controls>
         <source src="/images/spot_720.mp4" type="video/mp4">
       Your browser does not support the video tag.
       </video>
-    </div> -->
+    </div>
     <div class="card">
       <p>The robot platform used - Boston Dynamics Spot, with custom sensor stack</p>
     </div>
   </div>
   <div class="column" style="width: 50%;">
-<!--     <div class="card">
+    <div class="card">
       <video width="10%" controls>
         <source src="/images/warehouse_540.mp4" type="video/mp4">
       Your browser does not support the video tag.
       </video>
-    </div> -->
+    </div>
     <div class="card">
       <p>Tour of the warehouse used for the mock disaster response study</p>
-    </div>
-  </div>
-</div>
-<br>
-
-<div class="row">
-  <div class="column">
-    <div class="card">
-      <img alt="system diagram" src="https://user-images.githubusercontent.com/24911348/195924327-b4230fe0-e6ec-4cfe-acf5-3ebf3db022a9.png"/>
-    </div>
-  </div>
-  <div class="column" style="width: 75%;">
-    <div class="card">
-      <a href="https://maitreygram.github.io/publications/Scene-aware-language-planner">Generating Executable Action Plans with Environmentally-Aware Language Models</a>
-    </div>
-    <div class="card">
-      <b>Maitrey Gramopadhye</b>, Daniel Szafir
-    </div>
-    <div class="card">
-      <i>IROS, 2023</i>
-    </div>
-    <div class="card">
-      <i><a href="https://arxiv.org/abs/2210.04964">paper</a>, <a href="https://github.com/hri-ironlab/scene_aware_language_planner">code</a></i>
     </div>
   </div>
 </div>
