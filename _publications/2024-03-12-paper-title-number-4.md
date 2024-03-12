@@ -41,7 +41,7 @@ In this work, we present the design and evaluation of an immersive Cyber-Physica
 <div class="row">
   <div class="column" style="width: 50%;">
     <div class="card">
-      <video controls style="width: 48%;">
+      <video controls style="width: 95%;">
         <source src="/images/spot_720.mp4" type="video/mp4">
       Your browser does not support the video tag.
       </video>
@@ -52,7 +52,7 @@ In this work, we present the design and evaluation of an immersive Cyber-Physica
   </div>
   <div class="column" style="width: 50%;">
     <div class="card">
-      <video controls style="width: 48%;">
+      <video controls style="width: 95%;">
         <source src="/images/warehouse_540.mp4" type="video/mp4">
       Your browser does not support the video tag.
       </video>
@@ -99,10 +99,12 @@ In this work, we present the design and evaluation of an immersive Cyber-Physica
     </div>
     <br>
     <div class="card">
+      <p>The Cyber-Physical Control Room improved completion time 28% over the Baseline interface</p>
     </div>
   </div>
   <div class="column" style="width: 33%;">
     <div class="card">
+      <img width="858" alt="Social Engagement" src="https://github.com/maitreygram/maitreygram.github.io/assets/24911348/131b4780-e7a0-4f64-bd3a-a8d9e55a6930">
     </div>
     <br>
     <div class="card">
