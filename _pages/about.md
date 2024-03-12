@@ -76,6 +76,7 @@ Prior to my graduate studies, I completed my Bachelors in Technology in <a href=
 <br>
 
 
+
 <div class="row">
   <div class="column">
     <div class="card">
@@ -98,6 +99,7 @@ Prior to my graduate studies, I completed my Bachelors in Technology in <a href=
   </div>
 </div>
 <br>
+
 
 
 <div class="row">
