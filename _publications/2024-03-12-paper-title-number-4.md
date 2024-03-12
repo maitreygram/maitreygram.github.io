@@ -6,6 +6,7 @@ authors: Michael E. Walker, <b>Maitrey Gramopadhye</b>, Bryce Ikeda, Jack Burns,
 excerpt: 'In this paper, we present the design and evaluation of an immersive Cyber-Physical Control Room interface for teleoperating remote mobile robots.'
 date: 2024-03-12
 venue: 'ACM/IEEE International Conference on Human Robot Interaction (HRI)'
+paperurl: 'https://dl.acm.org/doi/10.1145/3610977.3634981'
 ---
 
 <style>
