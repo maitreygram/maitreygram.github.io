@@ -40,7 +40,7 @@ a:link {
 </div>
 <br>
 
-[View the paper here](https://dl.acm.org/doi/10.1145/3610977.3634981)
+[View the paper here](https://maitreygram.github.io/papers/Maitrey_HIRL.pdf)
 
 In this work, we present the design and evaluation of an immersive Cyber-Physical Control Room interface for remote mobile robots that provides users with both robot-egocentric and robot-exocentric 3D perspectives. We evaluate the Cyber-Physical Control room against a traditional robot interface in a mock disaster response scenario that features a mixed human-robot field team. In our evaluation, we found that the Cyber-Physical Control Room improved robot operator effectiveness by 28% while navigating a complex warehouse environment and performing a visual search. The Cyber-Physical Control Room also enhanced various aspects of human-robot teaming, including social engagement, the ability of a remote robot teleoperator to track their human partner in the field, and opinions of human teammate leadership qualities.
 
