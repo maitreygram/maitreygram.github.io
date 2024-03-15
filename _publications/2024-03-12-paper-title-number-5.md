@@ -42,3 +42,4 @@ a:link {
 
 [View the paper here](https://maitreygram.github.io/papers/Maitrey_HIRL.pdf)
 
+Large Language Models have had a notable surge in popularity in task planning for embodied robots. However, most approaches have the robot operating in isolation with minimal collaboration with humans. In this paper, we design a system that enables people to interact with an intelligent robot. We conduct a human subjects study to gain insights into the participants’ mental model, and whether the comprehensive abilities of LLMs encourage the users to adopt a collaborative role when working with the robot for long-horizon tasks.
