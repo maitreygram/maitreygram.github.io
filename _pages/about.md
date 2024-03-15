@@ -64,7 +64,7 @@ Prior to my graduate studies, I completed my Bachelors in Technology in <a href=
   </div>
   <div class="column" style="width: 75%;">
     <div class="card">
-      <a href="https://maitreygram.github.io/publications/mr_interface_mixed_team">Human Robot Collaboration with Few-Shot LLM Robot Models</a>
+      <a href="https://maitreygram.github.io/publications/llm_hrc">Human Robot Collaboration with Few-Shot LLM Robot Models</a>
     </div>
     <div class="card">
       <b>Maitrey Gramopadhye</b>, Daniel Szafir
