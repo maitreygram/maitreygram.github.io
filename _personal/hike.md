@@ -180,7 +180,7 @@ a:link {
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitreygram.github.io/images/IMG_2385.HEIC"/>
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_3030.HEIC"/>
     </div>
   </div>
   <div class="column">
@@ -198,7 +198,7 @@ a:link {
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitreygram.github.io/images/IMG_3030.HEIC"/>
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_2385.HEIC"/>
     </div>
   </div>
   <div class="column">
@@ -221,7 +221,7 @@ a:link {
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitreygram.github.io/images/IMG_3163.jpg"/>
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_3211.HEIC"/>
     </div>
   </div>
 </div>
@@ -239,7 +239,7 @@ a:link {
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitreygram.github.io/images/IMG_3211.HEIC"/>
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_3212.HEIC"/>
     </div>
   </div>
 </div>
@@ -247,7 +247,7 @@ a:link {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitreygram.github.io/images/IMG_3212.HEIC"/>
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_3163.jpg"/>
     </div>
   </div>
   <div class="column">
