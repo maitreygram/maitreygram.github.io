@@ -51,7 +51,7 @@ a:link {
 
 <div class="row" style="background-color: #D3D3D3;text-align: center;">
   <div class="card">
-    <a href="https://maitreygram.github.io/CV/PhD_resume.pdf">Open full PDF</a>
+    <a href="https://maitreygram.github.io/CV/PhD_resume_10_25.pdf">Open full PDF</a>
   </div>
 </div>
 <br>
