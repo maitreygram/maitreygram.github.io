@@ -247,7 +247,7 @@ a:link {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitreygram.github.io/images/IMG_20181213_110438_253_2.jpg"/>
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_3236.HEIC"/>
     </div>
   </div>
   <div class="column">
@@ -311,7 +311,7 @@ a:link {
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitreygram.github.io/images/IMG_3236.HEIC"/>
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_20181213_110438_253_2.jpg"/>
     </div>
   </div>
 </div>
