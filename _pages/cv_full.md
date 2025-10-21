@@ -57,6 +57,6 @@ a:link {
 <br>
 <div class="row">
   <div class="card">
-    <iframe src="https://maitreygram.github.io/CV/PhD_resume.pdf" width="100%" height="1000"></iframe>
+    <iframe src="https://maitreygram.github.io/CV/PhD_resume_10_25.pdf" width="100%" height="1000"></iframe>
   </div>
 </div>
