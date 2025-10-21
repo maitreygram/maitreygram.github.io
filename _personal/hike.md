@@ -221,7 +221,7 @@ a:link {
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitreygram.github.io/images/IMG_3163.HEIC"/>
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_3163.jpg"/>
     </div>
   </div>
 </div>
