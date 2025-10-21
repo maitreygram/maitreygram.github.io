@@ -261,3 +261,65 @@ a:link {
     </div>
   </div>
 </div>
+<br>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_3236.HEIC"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_3260.HEIC"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_3280.HEIC"/>
+    </div>
+  </div>
+</div>
+<br>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_8513.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitreygram.github.io/images/PXL_20230726_153334525.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitreygram.github.io/images/PXL_20230726_174155762.jpg"/>
+    </div>
+  </div>
+</div>
+<br>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitreygram.github.io/images/PXL_20231220_111231195.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitreygram.github.io/images/PXL_20231221_053354629.jpg"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitreygram.github.io/images/PXL_20231221_060138289.PORTRAIT.jpg"/>
+    </div>
+  </div>
+</div>
+<br>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitreygram.github.io/images/PXL_20240803_181607420.jpg"/>
+    </div>
+  </div>
+</div>
