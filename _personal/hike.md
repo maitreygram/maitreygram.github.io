@@ -170,3 +170,94 @@ a:link {
     </div>
   </div>
 </div>
+
+<br>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_1981.HEIC"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_2385.HEIC"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_2401.HEIC"/>
+    </div>
+  </div>
+</div>
+<br>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_2411.HEIC"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_3030.HEIC"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_3088.HEIC"/>
+    </div>
+  </div>
+</div>
+<br>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_3107.HEIC"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_3135.HEIC"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_3163.HEIC"/>
+    </div>
+  </div>
+</div>
+<br>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_3168.HEIC"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_3208.HEIC"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_3211.HEIC"/>
+    </div>
+  </div>
+</div>
+<br>
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_3212.HEIC"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_3218.HEIC"/>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_3226.HEIC"/>
+    </div>
+  </div>
+</div>
