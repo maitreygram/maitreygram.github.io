@@ -252,7 +252,7 @@ a:link {
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitreygram.github.io/images/IMG_3163.jpg"/>
+      <img alt="image" src="https://maitreygram.github.io/images/PXL_20230726_174155762.jpg"/>
     </div>
   </div>
   <div class="column">
@@ -275,7 +275,7 @@ a:link {
   </div>
   <div class="column">
     <div class="card">
-      <img alt="image" src="https://maitreygram.github.io/images/PXL_20230726_174155762.jpg"/>
+      <img alt="image" src="https://maitreygram.github.io/images/IMG_3163.jpg"/>
     </div>
   </div>
 </div>
