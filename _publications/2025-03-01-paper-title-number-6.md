@@ -39,6 +39,6 @@ a:link {
 </div>
 <br>
 
-[View the paper here](https://maitreygram.github.io/papers/Maitrey_HIRL.pdf)
+[View the paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10974232)
 
-Large Language Models have had a notable surge in popularity in task planning for embodied robots. However, most approaches have the robot operating in isolation with minimal collaboration with humans. In this paper, we design a system that enables people to interact with an intelligent robot. We conduct a human subjects study to gain insights into the participants’ mental model, and whether the comprehensive abilities of LLMs encourage the users to adopt a collaborative role when working with the robot for long-horizon tasks.
+In this work, we combine the strengths of humans and robots by developing MARCER, a novel interactive and multimodal end-user robot programming system. MARCER utilizes a Large Language Model to translate users’ natural language task descriptions and environmental context into Action Plans for robot execution, based on a trigger-action programming paradigm that facilitates authoring reactive robot behaviors. MARCER also affords interaction via augmented reality to help users parameterize and validate robot programs and provide real-time, visual previews and feedback directly in the context of the robot’s operating environment. We present the design, implementation, and evaluation of MARCER to explore the usability of such systems and demonstrate how trigger-action programming, Large Language Models, and augmented reality hold deep-seated synergies that, when combined, empower users to program general-purpose robots to perform everyday tasks.
