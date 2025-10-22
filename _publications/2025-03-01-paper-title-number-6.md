@@ -5,7 +5,7 @@ permalink: /publications/marcer
 authors: <b>Maitrey Gramopadhye<sup>*</sup></b>, Bryce Ikeda<sup>*</sup>, LillyAnn Nekervis, Daniel Szafir
 excerpt: 'In this paper, we design and evaluate a novel interactive and multimodal end-user robot programming system. MARCER combines Trigger-Action Programming, Large Language Models and Augmented Re- ality to allow users to author and visualize reactive robot behavior.'
 date: 2025-03-01
-venue: 'ACM/IEEE International Conference on Human Robot Interaction (HRI), 2025'
+venue: 'ACM/IEEE International Conference on Human Robot Interaction (HRI)'
 paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10974232'
 ---
 
@@ -33,7 +33,7 @@ a:link {
 <br>
 <div class="card">
   <video width="100%" controls>
-    <source src="/images/demo_540.mp4" type="video/mp4">
+    <source src="/images/marcer_vid.mp4" type="video/mp4">
   Your browser does not support the video tag.
   </video>
 </div>
