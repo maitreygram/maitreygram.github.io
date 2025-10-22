@@ -2,7 +2,7 @@
 title: "MARCER: Multimodal Augmented Reality for Composing and Executing Robot Tasks"
 collection: publications
 permalink: /publications/marcer
-authors: <b>Maitrey Gramopadhye*</b>, Bryce Ikeda*, LillyAnn Nekervis, Daniel Szafir
+authors: <b>Maitrey Gramopadhye<sup>*</sup></b>, Bryce Ikeda<sup>*</sup>, LillyAnn Nekervis, Daniel Szafir
 excerpt: 'In this paper, we design and evaluate a novel interactive and multimodal end-user robot programming system. MARCER combines Trigger-Action Programming, Large Language Models and Augmented Re- ality to allow users to author and visualize reactive robot behavior.'
 date: 2025-03-01
 venue: 'ACM/IEEE International Conference on Human Robot Interaction (HRI), 2025'
@@ -29,7 +29,7 @@ a:link {
 }
 </style>
 
-<p>Maitrey Gramopadhye, Daniel Szafir</p>
+<p>Maitrey Gramopadhye<sup>*</sup>, Bryce Ikeda<sup>*</sup>, LillyAnn Nekervis, Daniel Szafir</p>
 <br>
 <div class="card">
   <video width="100%" controls>
