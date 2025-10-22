@@ -1,13 +1,12 @@
 ---
-title: "Human Robot Collaboration with Few-Shot LLM Robot Models"
+title: "MARCER: Multimodal Augmented Reality for Composing and Executing Robot Tasks"
 collection: publications
-permalink: /publications/llm_hrc
-authors: <b>Maitrey Gramopadhye</b>, Daniel Szafir
-excerpt: 'In this paper, we design a system that enables people to interact with an intelligent robot. We conduct a human subjects study to gain insights into the participants’ mental model.'
-date: 2024-03-12
-venue: 'Human-Interactive Robot Learning
-(HIRL) | HRI'
-paperurl: 'https://maitreygram.github.io/papers/Maitrey_HIRL.pdf'
+permalink: /publications/marcer
+authors: <b>Maitrey Gramopadhye*</b>, Bryce Ikeda*, LillyAnn Nekervis, Daniel Szafir
+excerpt: 'In this paper, we design and evaluate a novel interactive and multimodal end-user robot programming system. MARCER combines Trigger-Action Programming, Large Language Models and Augmented Re- ality to allow users to author and visualize reactive robot behavior.'
+date: 2025-03-01
+venue: 'ACM/IEEE International Conference on Human Robot Interaction (HRI), 2025'
+paperurl: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10974232'
 ---
 
 <style>
