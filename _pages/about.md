@@ -60,7 +60,27 @@ Prior to my graduate studies, I completed my Bachelors in Technology in <a href=
 <div class="row">
   <div class="column">
     <div class="card">
-      <img alt="interface" src="https://github.com/user-attachments/files/23063290/teaser.pdf"/>
+      <img alt="teaser" src="https://github.com/user-attachments/assets/3ae0d686-d11b-4c34-9dc9-5bc97fb0525e"/>
+    </div>
+  </div>
+  <div class="column" style="width: 75%;">
+    <div class="card">
+      <a href="https://maitreygram.github.io/publications/step">STEP: State-Aware Task Estimation and Planning with Multi-Modal LLMs for Human-Robot Collaboration</a>
+    </div>
+    <div class="card">
+      <b>Maitrey Gramopadhye</b>, Prakash Baskaran, Xiao Liu, Songpo Li, Soshi Iba
+    </div>
+    <div class="card">
+      <i>RO-MAN, 2026</i>
+  </div>
+</div>
+<br>
+<br>
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img alt="interface" src="https://github.com/user-attachments/assets/b8061f70-aa2d-4659-a9c2-69e6cf95726e"/>
     </div>
   </div>
   <div class="column" style="width: 75%;">
