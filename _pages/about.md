@@ -57,7 +57,7 @@ Prior to my graduate studies, I completed my Bachelors in Technology in <a href=
 
 # Recent Publications
 
-<div class="row">
+<div class="row mb-4">
   <div class="column">
     <div class="card">
       <img alt="teaser" src="https://github.com/user-attachments/assets/3ae0d686-d11b-4c34-9dc9-5bc97fb0525e"/>
