@@ -33,10 +33,10 @@ a:link {
 <br>
 <div class="card">
   <video width="100%" controls>
-    <source src="/images/marcer_vid.mp4" type="video/mp4">
+    <source src="/images/vid_step.mp4" type="video/mp4">
   Your browser does not support the video tag.
   </video>
 </div>
 <br>
 
-[View the paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10974232)
+[Paper link coming soon]
