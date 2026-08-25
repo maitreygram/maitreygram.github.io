@@ -8,3 +8,23 @@ date: 2026-07-01
 venue: 'IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)'
 paperurl: ''
 ---
+
+<style>
+/* Style the counter cards */
+.column {
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+}
+
+.card {
+<!--   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); /* this adds the "card" effect */ -->
+  padding: 16px;
+<!--   text-align: center; -->
+<!--   background-color: #f1f1f1; -->
+}
+  
+a:link {
+  text-decoration: none;
+}
+</style>
