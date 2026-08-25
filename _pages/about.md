@@ -75,7 +75,6 @@ Prior to my graduate studies, I completed my Bachelors in Technology in <a href=
   </div>
 </div>
 <br>
----
 <br>
 
 <div class="row">
@@ -96,7 +95,6 @@ Prior to my graduate studies, I completed my Bachelors in Technology in <a href=
   </div>
 </div>
 <br>
----
 <br>
 
 <div class="row">
@@ -117,7 +115,6 @@ Prior to my graduate studies, I completed my Bachelors in Technology in <a href=
   </div>
 </div>
 <br>
----
 <br>
 
 <div class="row">
@@ -138,7 +135,6 @@ Prior to my graduate studies, I completed my Bachelors in Technology in <a href=
   </div>
 </div>
 <br>
----
 <br>
 
 <div class="row">
@@ -163,7 +159,6 @@ Prior to my graduate studies, I completed my Bachelors in Technology in <a href=
   </div>
 </div>
 <br>
----
 <br>
 
 <div class="row">
@@ -188,7 +183,6 @@ Prior to my graduate studies, I completed my Bachelors in Technology in <a href=
   </div>
 </div>
 <br>
----
 <br>
 
 <div class="row">
