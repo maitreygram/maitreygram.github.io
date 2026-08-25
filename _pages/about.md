@@ -153,9 +153,6 @@ Prior to my graduate studies, I completed my Bachelors in Technology in <a href=
     <div class="card">
       <i>IROS, 2023</i>
     </div>
-    <div class="card">
-      <i><a href="https://arxiv.org/abs/2210.04964">paper</a>, <a href="https://github.com/hri-ironlab/scene_aware_language_planner">code</a></i>
-    </div>
   </div>
 </div>
 <br>
@@ -177,9 +174,6 @@ Prior to my graduate studies, I completed my Bachelors in Technology in <a href=
     <div class="card">
       <i>XR-ROB | IROS, 2023</i>
     </div>
-    <div class="card">
-      <i><a href="https://maitreygram.github.io/papers/VR_or_not_XR_ROB_23.pdf">paper</a></i>
-    </div>
   </div>
 </div>
 <br>
@@ -200,9 +194,6 @@ Prior to my graduate studies, I completed my Bachelors in Technology in <a href=
     </div>
     <div class="card">
       <i>ICANN, 2021</i>
-    </div>
-    <div class="card">
-      <i><a href="https://link.springer.com/chapter/10.1007/978-3-030-86383-8_2">paper</a></i>
     </div>
   </div>
 </div>
